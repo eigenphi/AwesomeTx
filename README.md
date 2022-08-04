@@ -7,7 +7,7 @@ To help the public have deeper understanding of the interaction among all those 
 ## How to submit the transaction I found amazing?
 Just submit it as an issue. Here are the detailed steps.
 1. Login your github account. Create one if you don't have it.
-2. Click the Issues of this project: https://github.com/DataFi-EigenPhi/AmazingWeb3Trx/issues
+2. Click the Issues of this project: https://github.com/eigenphi/AwesomeTx/issues
 3. Click the "New Issue" button as shown in the picture.
 
 ![image](https://user-images.githubusercontent.com/106327351/182502733-a1257b9d-6581-42cc-954a-b677ac5504d7.png)
