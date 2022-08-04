@@ -4,6 +4,8 @@ The prosperities of DeFi and web3, in a large part, should be attributed to the 
 
 To help the public have deeper understanding of the interaction among all those elements in Smart Contracts, we'd like to invite you to submit the transactions you found either amazing, rare, or hard to deciper. We will regularly select the most intriguing ones, analyze them, and release the reports. 
 
+### [🎁 Come and Join our august awesome transaction bounty! 🎁](https://github.com/eigenphi/AwesomeTx/wiki/The-August-Awesome-Web3-Transactions-Bounty)
+
 ## How to submit the transaction I found amazing?
 Just submit it as an issue. Here are the detailed steps.
 1. Login your github account. Create one if you don't have it.
