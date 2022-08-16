@@ -11,6 +11,7 @@ To help the public have deeper understanding of the interaction among all those 
 1. Use [EigenPhi](https://eigenphi.io/) to discover all kinds of MEV txs, including: [Sandwich](https://eigenphi.io/ethereum/sandwich), [flash loan](https://eigenphi.io/ethereum/flashloan), [liquidation](https://eigenphi.io/ethereum/liquidation), and [arbitrage](https://eigenphi.io/). 
 2. Use [Dune](https://dune.com/) and [Flipside](https://flipsidecrypto.xyz/) and search with keyword "transaction". I.e.:this [AAVE Explore](https://dune.com/rmas/aave-explorer-txs). 
 3. Search twitter account's history. I.e.:[PeckShield](https://twitter.com/peckshield) always posts interesting txs. 
+4. You can always use [Etherscan](https://etherscan.io/txs) to find txs. 
 
 ## How to submit the transaction I found amazing?
 Just submit it as an issue. Here are the detailed steps.
