@@ -5,7 +5,7 @@ The prosperities of DeFi and web3, in a large part, should be attributed to the 
 To help the public have deeper understanding of the interaction among all those elements in Smart Contracts, we'd like to invite you to submit the transactions you found either amazing, rare, or hard to deciper. We will regularly select the most intriguing ones, analyze them, and release the reports. 
 
 
-### [🎁 Come and Join Our August Awesome Transaction Bounty! 🎁](https://github.com/eigenphi/AwesomeTx/wiki/The-August-Awesome-Web3-Transactions-Bounty)
+### [🎁 August Awesome Transaction Bounty WINNER ANNOUNCED! 🎁](https://github.com/eigenphi/AwesomeTx/wiki/The-August-Awesome-Web3-Transactions-Bounty)
 
 ## Where can I find these transactions?
 1. Use [EigenPhi](https://eigenphi.io/) to discover all kinds of MEV txs, including: [Sandwich](https://eigenphi.io/ethereum/sandwich), [flash loan](https://eigenphi.io/ethereum/flashloan), [liquidation](https://eigenphi.io/ethereum/liquidation), and [arbitrage](https://eigenphi.io/). 
