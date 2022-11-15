@@ -1,0 +1,200 @@
+
+0xfd00.0x00000003 [11]
+UniswapV3Pool.swap [4]
+WBTC.transfer [1]
+WBTC.Transfer [1]
+0xfd00.uniswapV3SwapCallback [3]
+UNI-V2.swap [1]
+SYLO.transfer [1]
+SYLO.Transfer [1]
+UNI-V2.swap [1]
+WETH.transfer [1]
+WETH.Transfer [1]
+WETH.transfer [1]
+WETH.Transfer [1]
+UniswapV3Pool.swap [6]
+WETH.transfer [1]
+WETH.Transfer [1]
+0xfd00.uniswapV3SwapCallback [5]
+Balancer_Vault.swap [2]
+WETH.transferFrom [1]
+WETH.Transfer [1]
+PSP.transfer [1]
+PSP.Transfer [1]
+0x2f9e.convertByPath [3]
+PSP.transferFrom [1]
+PSP.Transfer [1]
+StandardPoolConverter.convert [1]
+BNT.transfer [1]
+BNT.Transfer [1]
+StandardPoolConverter.convert [1]
+QNT.transfer [1]
+QNT.Transfer [1]
+to
+Balancer Vault
+0
+0.3483 WETH
+
+
+
+
+Account Balance Changes
+tx:0xaa1…4966f
+ETH
+
+ETH
+WBTC
+WBTC
+SYLO
+
+SYLO
+
+WETH
+WETH
+PSP
+PSP
+
+BNT
+BNT
+QNT
+QNT
+
+
+0xfd0…87ad7
+<0.000001			0.019502	<0.000001		
+
+0x4f1…62604
+EOA
+<-0.000001						
+0x11a…8d3d0
+
+1,205.968887	-3.622006
+0xe95…75856
+
+15,839.381136	-1,205.968887	
+0xba1…bf2c8
+0.348267	-15,839.381136		
+0x24e…4b9df
+
+-0.354549			3.622006
+0x2a6…ae6f2
+
+563,065.397639	-1.001782			
+0x7e2…fd08a
+
+0.074389	-563,065.397639				
+0x458…a20c0
+
+-0.074389		0.988563			
+Transfer List
+tx:0xaa1…4966f
+ETH
+
+ETH
+WBTC
+WBTC
+SYLO
+
+SYLO
+
+WETH
+WETH
+PSP
+PSP
+
+BNT
+BNT
+QNT
+QNT
+
+0	
+
+0x4f1…62604
+EOA
+<-0.000001						
+0	
+
+0xfd0…87ad7
+<0.000001						
+1	
+0x458…a20c0
+
+-0.074389					
+1	
+0x7e2…fd08a
+
+0.074389					
+2	
+0x7e2…fd08a
+
+-563,065.397639				
+2	
+0x2a6…ae6f2
+
+563,065.397639				
+3	
+0x2a6…ae6f2
+
+-1.001782			
+3	
+
+0xfd0…87ad7
+1.001782			
+4	
+
+0xfd0…87ad7
+-0.988563			
+4	
+0x458…a20c0
+
+0.988563			
+5	
+0x24e…4b9df
+
+-0.354549			
+5	
+
+0xfd0…87ad7
+0.354549			
+6	
+
+0xfd0…87ad7
+-0.348267			
+6	
+0xba1…bf2c8
+0.348267			
+7	
+0xba1…bf2c8
+-15,839.381136		
+7	
+
+0xfd0…87ad7
+15,839.381136		
+8	
+
+0xfd0…87ad7
+-15,839.381136		
+8	
+0xe95…75856
+
+15,839.381136		
+9	
+0xe95…75856
+
+-1,205.968887	
+9	
+0x11a…8d3d0
+
+1,205.968887	
+10	
+0x11a…8d3d0
+
+-3.622006
+10	
+0x24e…4b9df
+
+3.622006
+
+Terms and Conditions
+Changelog
+Copyright © 2022 EIGENPHI
